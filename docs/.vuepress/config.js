@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/jquery/',
   title: 'jq 源码学习笔记',
   description: 'Just playing around',
   head: [
