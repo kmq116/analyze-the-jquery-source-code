@@ -7,6 +7,7 @@ module.exports = {
   ],
   themeConfig: {
     sidebar: [
+      ['/序章.md', '序章'],
       ['/01 开始.md', '开始'],
 
     ],
