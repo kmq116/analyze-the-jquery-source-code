@@ -7,8 +7,9 @@ module.exports = {
   ],
   themeConfig: {
     sidebar: [
-      ['/序章.md', '序章'],
-      ['/01 开始.md', '开始'],
+      ['/00序章.md', '序章'],
+      ['/01开始.md', '开始'],
+      ['/02选择器.md', '选择器'],
 
     ],
     displayAllHeaders: true,
